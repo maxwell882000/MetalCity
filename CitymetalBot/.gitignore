@@ -1,0 +1,7 @@
+/.idea
+.env
+test.py
+/.vscode
+__pycache__/
+core/resources/images
+core/resources/*.json
